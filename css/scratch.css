@@ -1,0 +1,55 @@
+body {
+    background-color: #d4eadd;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .box {
+    background-color: rgb(238, 243, 234);
+    padding: 15px;
+    margin: 15px;
+    border-radius: 8px;
+  }
+  
+  h1 {
+    color: #2e7d32;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #2e7d32;
+  }
+  
+  a {
+    color: #2e7d32;
+    font-weight: bold;
+  }
+  
+  img {
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 8px;
+  }
+  
+  iframe {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+    display: block;
+    margin: 10px auto;
+    border: none;
+  }
+  
+  .nutrition-data iframe {
+    height: 800px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .top-link {
+    text-align: center;
+    margin-top: 15px;
+  }
+  
